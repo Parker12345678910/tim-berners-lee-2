@@ -1,0 +1,38 @@
+#p1 img{
+width:250px;
+height:270px;
+margin-top:100px;
+border:2px groove gray;
+padding:5px;
+}
+#p1{
+height:650px;
+width:100%;
+background:linear-gradient(blue 1%,green 100%);
+}
+#Menu{
+list-style:none;
+top:10px;
+right:20px;
+position:fixed;
+}
+.links{
+margin:5px;
+padding:5px;
+float:left;
+font-size:20px;
+color:aquamarine;
+}
+.links:hover{
+background-color:black;
+font-size:23px;
+}
+hr{
+width:100px;
+height:10px;
+background-color:brown;
+}
+a{
+color:rgb(74, 135, 197);
+text-decoration:none;
+}
